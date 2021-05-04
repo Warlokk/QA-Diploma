@@ -7,6 +7,7 @@
 
 **Приложение**
 * [Отчет](https://qa-diploma.vercel.app/) gradle
+* [Отчет](https://allurereportqa.vercel.app/) Allure Report
 
 ## Результаты
 
